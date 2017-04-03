@@ -1,0 +1,12 @@
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\GSI.DAL.DataAccessLayer.Test.dll.config
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\GSI.DAL.DataAccessLayer.Test.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\GSI.DAL.DataAccessLayer.Test.pdb
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\Galcon.DAL.BaseDAL.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\Galcon.GSI.Systems.GSI.DAL.DataAccessLayer.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\MySql.Data.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\Galcon.DAL.BaseDAL.pdb
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\bin\Debug\Galcon.GSI.Systems.GSI.DAL.DataAccessLayer.pdb
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\obj\Debug\GSI.DAL.DataAccessLayer.Test.csprojResolveAssemblyReference.cache
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\obj\Debug\GSI.DAL.DataAccessLayer.Test.dll
+D:\Projects\GSIEnterprise_v6\VS\GSI-TempGroup\WebGSI-Temp\GSI.DAL.DataAccessLayer\GSI.DAL.DataAccessLayer.Test\obj\Debug\GSI.DAL.DataAccessLayer.Test.pdb
